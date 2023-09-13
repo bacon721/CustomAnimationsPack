@@ -1,0 +1,3 @@
+local mainTable = {
+    message1 = "This Code Was Loaded By Custom Animation Pack Repo";
+}
